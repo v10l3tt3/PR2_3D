@@ -51,6 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "PR2_3D-master.sln",
+    "dotnet.defaultSolution": "PR2_3D.sln",
     "git.ignoreLimitWarning": true
 }
